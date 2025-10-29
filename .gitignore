@@ -1,0 +1,9 @@
+# Archivos compilados (ejecutables)
+servidor
+worker
+
+# Archivos de VS Code
+.vscode/
+
+# Archivos de sistema (si usas Mac)
+.DS_Store
