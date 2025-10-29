@@ -23,7 +23,6 @@ Esta es una simulación de un sistema Cliente-Servidor de minería (Proof-of-Wor
 
 El proyecto usa `gcc` y la biblioteca `pthreads` (POSIX threads). Asegúrate de estar en un entorno Linux o WSL (Subsistema de Windows para Linux).
 
-```bash
 # Compilar el Servidor (Líder)
 gcc -o servidor servidor_lider.c sha256.c -lpthread
 
